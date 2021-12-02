@@ -1,4 +1,3 @@
-from os import path
 import requests
 
 def load_cookie() -> None:

@@ -25,4 +25,4 @@ while C < len(data):
     B +=1
     C +=1
 
-print(len(increases)-1)
+print("Number of increases: ", len(increases)-1)

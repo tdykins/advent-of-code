@@ -1,6 +1,6 @@
-from functions import get_input
+# from functions import get_input
 
-get_input("https://adventofcode.com/2021/day/1/input", "day1_1.txt")
+# get_input("https://adventofcode.com/2021/day/1/input", "day1_1.txt")
 
 data = []
 with open("data/day1_1.txt", "r") as input:

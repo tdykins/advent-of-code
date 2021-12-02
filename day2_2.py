@@ -22,7 +22,6 @@ for i in data:
         depth += (aim * int(i[1]))
 
     
-
 print("Horizontal:", horizontal)
 print("Depth:", depth)
 print("H x D = ", horizontal * depth)
